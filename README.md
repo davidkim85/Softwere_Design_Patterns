@@ -9,4 +9,4 @@ Design patterns had originally been categorized into 3 sub-classifications based
 2. Structural patterns
 3. Behavioral patterns 
 
-![image](https://user-images.githubusercontent.com/39617331/115966265-6cac1a00-a535-11eb-82bf-4b46b7e38768.png)
+
