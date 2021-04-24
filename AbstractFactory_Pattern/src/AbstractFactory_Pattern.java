@@ -25,6 +25,7 @@ class WildDog implements Dog
         System.out.println("Wild Dogs prefer to roam freely in jungles.\n");
     }
 }
+
 class PetDog implements Dog
 {
     @Override
