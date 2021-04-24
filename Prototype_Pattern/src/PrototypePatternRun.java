@@ -56,7 +56,7 @@ class Ford extends BasicCar
         return (Ford)super.clone();
     }
 }
-public class PrototypePattern {
+public class PrototypePatternRun {
     public static void main(String[] args) throws
             CloneNotSupportedException
     {
